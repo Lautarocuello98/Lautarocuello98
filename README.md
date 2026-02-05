@@ -46,7 +46,8 @@ Each project demonstrates practical problem-solving, clean code, and documented 
 
 ## Contact
 
-- GitHub: [https://github.com/Lautarocuello98](https://github.com/Lautarocuello98)  
-- LinkedIn: [https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/lautaro-cuello-7ba4063a3/)  
+- GitHub: [Lautarocuello98](https://github.com/Lautarocuello98)  
+- LinkedIn: [Lautaro Cuello](https://www.linkedin.com/in/lautaro-cuello-7ba4063a3/)
+
 
 ---
