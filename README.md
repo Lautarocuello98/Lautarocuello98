@@ -28,6 +28,7 @@ I have a solid foundation in programming logic, algorithms, and practical Python
 
 ## Selected Projects
 
+- **[Automation-hub](https://github.com/Lautarocuello98/Automation-hub)** -Desktop automation toolkit built with Python and Tkinter.
 - **[Automate the Boring Stuff](https://github.com/Lautarocuello98/automate-the-boring-stuff)** – Personal Python scripts for automation and file management.
 - **[Encryption System](https://github.com/Lautarocuello98/Encryption-System)** – Python project implementing encryption and decryption methods.
 - **[Simple Games Website](https://github.com/Lautarocuello98/simple-games-website)** – Web-based games built with HTML, CSS, and JavaScript.
