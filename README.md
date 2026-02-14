@@ -1,6 +1,6 @@
-# Lautaro Cuello – Junior Python Developer
+# Lautaro Cuello – Python Developer
 
-I am a Junior Python Developer focused on **automation, scripting, and problem-solving**.  
+I am a Python Developer focused on **automation, scripting, and problem-solving**.  
 I create practical scripts and small projects that optimize workflows and solve real-world problems.
 
 ---
