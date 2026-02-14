@@ -1,7 +1,7 @@
 # Lautaro Cuello – Python Developer
 
-I am a Python Developer focused on **automation, scripting, and problem-solving**.  
-I create practical scripts and small projects that optimize workflows and solve real-world problems.
+Python developer focused on automation, scripting, and building practical desktop tools.
+I create small applications and scripts that automate repetitive tasks, process data, and improve workflows.
 
 ---
 
@@ -9,26 +9,27 @@ I create practical scripts and small projects that optimize workflows and solve 
 
 - **CS50x – Introduction to Computer Science (Harvard)**  
 - **CS50p – Introduction to Programming with Python (Harvard)**  
-- *Automate the Boring Stuff with Python* (in progress)  
+- *Automate the Boring Stuff with Python* 
 - *Python Crash Course* (in progress)
 
-I have a solid foundation in programming logic, algorithms, and practical Python development.
+Strong foundation in programming logic, algorithms, and practical Python development.
 
 ---
 
 ## Technical Skills
 
-- Python programming (file handling, automation, scripting)
-- Task automation and workflow improvement
-- Debugging, problem decomposition, and algorithmic thinking
-- Git and GitHub workflow
-- Basic web development (HTML, CSS, JavaScript)
+Python (automation, scripting, file handling, APIs)
+Task automation and workflow optimization
+Debugging, problem decomposition, and algorithmic thinking
+Git and GitHub
+Basic web development (HTML, CSS, JavaScript)
+Desktop applications with Tkinter
 
 ---
 
 ## Selected Projects
 
-- **[Automation-hub](https://github.com/Lautarocuello98/Automation-hub)** -Desktop automation toolkit built with Python and Tkinter.
+- **[Automation-hub](https://github.com/Lautarocuello98/Automation-hub)** - Desktop automation toolkit built with Python and Tkinter, integrating multiple tools in a single interface.
 - **[Automate the Boring Stuff](https://github.com/Lautarocuello98/automate-the-boring-stuff)** – Personal Python scripts for automation and file management.
 - **[Encryption System](https://github.com/Lautarocuello98/Encryption-System)** – Python project implementing encryption and decryption methods.
 - **[Simple Games Website](https://github.com/Lautarocuello98/simple-games-website)** – Web-based games built with HTML, CSS, and JavaScript.
