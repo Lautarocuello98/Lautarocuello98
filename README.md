@@ -29,6 +29,7 @@ Desktop applications with Tkinter
 
 ## Selected Projects
 
+- **[Inventory-sales-manager](https://github.com/Lautarocuello98/Inventory-sales-manager)** - System for managing inventory and sales, easily controlling products, stock, customers, and transactions.
 - **[Automation-hub](https://github.com/Lautarocuello98/Automation-hub)** - Desktop automation toolkit built with Python and Tkinter, integrating multiple tools in a single interface.
 - **[Automate the Boring Stuff](https://github.com/Lautarocuello98/automate-the-boring-stuff)** – Personal Python scripts for automation and file management.
 - **[Encryption System](https://github.com/Lautarocuello98/Encryption-System)** – Python project implementing encryption and decryption methods.
