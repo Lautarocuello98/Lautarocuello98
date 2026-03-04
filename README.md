@@ -27,16 +27,37 @@ Desktop applications with Tkinter
 
 ---
 
-## Selected Projects
+## Featured Project
 
-- **[Inventory-sales-manager](https://github.com/Lautarocuello98/Inventory-sales-manager)** - System for managing inventory and sales, easily controlling products, stock, customers, and transactions.
-- **[Automation-hub](https://github.com/Lautarocuello98/Automation-hub)** - Desktop automation toolkit built with Python and Tkinter, integrating multiple tools in a single interface.
-- **[Automate the Boring Stuff](https://github.com/Lautarocuello98/automate-the-boring-stuff)** – Personal Python scripts for automation and file management.
-- **[Encryption System](https://github.com/Lautarocuello98/Encryption-System)** – Python project implementing encryption and decryption methods.
-- **[Simple Games Website](https://github.com/Lautarocuello98/simple-games-website)** – Web-based games built with HTML, CSS, and JavaScript.
+### Inventory Sales Manager
 
-Each project demonstrates practical problem-solving, clean code, and documented solutions.
+Desktop application for inventory and sales management built with Python.
 
+Designed to help small businesses track products, manage stock levels, register sales, and generate financial reports.  
+The system focuses on practical business operations and structured data handling.
+
+**Key capabilities**
+- Product and inventory management  
+- Sales tracking and transaction history  
+- Weighted restocking cost calculation  
+- Currency conversion (USD / ARS)  
+- Automated Excel profit reports  
+
+🔗 Repository  
+https://github.com/Lautarocuello98/Inventory-sales-manager
+
+
+## Other Projects
+
+- **[Automation Hub](https://github.com/Lautarocuello98/Automation-hub)** — Desktop automation toolkit built with Python and Tkinter that integrates multiple automation utilities.
+
+- **[Automate the Boring Stuff with Python](https://github.com/Lautarocuello98/automate-the-boring-stuff)** — Collection of practical Python automation scripts built while working through the book, focused on file handling, scripting, and task automation.
+
+- **[Encryption System](https://github.com/Lautarocuello98/Encryption-System)** — Python project implementing multiple encryption and decryption methods.
+
+- **[Simple Games Website](https://github.com/Lautarocuello98/simple-games-website)** — Static browser-based game collection built with HTML, CSS, and JavaScript.
+
+These projects demonstrate practical problem-solving, automation workflows, and real-world scripting with Python.
 ---
 
 ## Professional Goals
