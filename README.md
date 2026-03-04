@@ -18,12 +18,12 @@ Strong foundation in programming logic, algorithms, and practical Python develop
 
 ## Technical Skills
 
-Python (automation, scripting, file handling, APIs)
-Task automation and workflow optimization
-Debugging, problem decomposition, and algorithmic thinking
-Git and GitHub
-Basic web development (HTML, CSS, JavaScript)
-Desktop applications with Tkinter
+- Python (automation, scripting, file handling, APIs)
+- Task automation and workflow optimization
+- Debugging, problem decomposition, and algorithmic thinking
+- Git and GitHub
+- Basic web development (HTML, CSS, JavaScript)
+- Desktop applications with Tkinter
 
 ---
 
@@ -46,6 +46,7 @@ The system focuses on practical business operations and structured data handling
 🔗 Repository  
 https://github.com/Lautarocuello98/Inventory-sales-manager
 
+---
 
 ## Other Projects
 
@@ -74,4 +75,3 @@ These projects demonstrate practical problem-solving, automation workflows, and 
 - LinkedIn: [Lautaro Cuello](https://www.linkedin.com/in/lautaro-cuello-7ba4063a3/)
 
 
----
