@@ -33,7 +33,9 @@ Strong foundation in programming logic, algorithms, and practical Python develop
 ## Technologies
 
 - Python  
-- Pandas  
+- Pandas
+- FastAPI
+- Django 
 - SQLite  
 - Tkinter  
 - OpenPyXL  
