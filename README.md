@@ -39,6 +39,16 @@ Strong foundation in programming logic, algorithms, and practical Python develop
 
 ---
 
+## Services
+
+- Automation scripts for repetitive tasks  
+- Data processing and report generation  
+- Web scraping and data extraction  
+- Excel and CSV data automation  
+- Small Python tools for workflow optimization
+
+---
+
 ## Featured Project
 
 ### Inventory Sales Manager
