@@ -73,7 +73,7 @@ https://github.com/Lautarocuello98/Inventory-sales-manager
 
 ## Other Projects
 
-- **[Excel Report Generator](https://github.com/Lautarocuello98/data-report-automation)** — Python CLI tool that analyzes CSV or Excel datasets and generates a formatted Excel report with summary tables, KPIs, and charts.
+- **[Excel Report Generator](https://github.com/Lautarocuello98/data-report-automation)** — Python CLI tool that processes CSV or Excel datasets and generates a structured Excel report with summary tables, KPIs, and charts.
 
 - **[Email Report Automation](https://github.com/Lautarocuello98/email-report-automation)** — Python CLI tool that generates Excel sales reports from CSV data and automatically sends them via email using SMTP.
 
