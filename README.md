@@ -75,6 +75,8 @@ https://github.com/Lautarocuello98/Inventory-sales-manager
 
 - **[Data Report Automation](https://github.com/Lautarocuello98/data-report-automation)** — Python CLI tool that transforms raw CSV/Excel sales data into cleaned datasets, business KPIs, charts, and formatted Excel reports.
 
+- **[Email Report Automation](https://github.com/Lautarocuello98/email-report-automation)** — Python CLI tool that generates Excel sales reports from CSV data and automatically sends them via email using SMTP.
+
 - **[Automation Hub](https://github.com/Lautarocuello98/Automation-hub)** — Desktop automation toolkit built with Python and Tkinter that integrates multiple automation utilities.
 
 - **[Encryption System](https://github.com/Lautarocuello98/Encryption-System)** — Python project implementing multiple encryption and decryption methods.
