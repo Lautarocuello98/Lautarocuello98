@@ -1,7 +1,9 @@
-# Lautaro Cuello – Python Developer
+# Lautaro Cuello – Python Automation Developer
 
-Python developer focused on automation, scripting, and building practical desktop tools.
+Python developer focused on **automation, scripting, and building practical tools**.  
 I create small applications and scripts that automate repetitive tasks, process data, and improve workflows.
+
+Focused on building **practical Python solutions for automation, data processing, and workflow optimization**.
 
 ---
 
@@ -9,7 +11,7 @@ I create small applications and scripts that automate repetitive tasks, process 
 
 - **CS50x – Introduction to Computer Science (Harvard)**  
 - **CS50p – Introduction to Programming with Python (Harvard)**  
-- *Automate the Boring Stuff with Python* 
+- *Automate the Boring Stuff with Python*  
 - *Python Crash Course* (in progress)
 
 Strong foundation in programming logic, algorithms, and practical Python development.
@@ -27,6 +29,18 @@ Strong foundation in programming logic, algorithms, and practical Python develop
 
 ---
 
+## Technologies
+
+- Python  
+- Pandas  
+- SQLite  
+- Tkinter  
+- OpenPyXL  
+- Matplotlib  
+- Git / GitHub  
+
+---
+
 ## Featured Project
 
 ### Inventory Sales Manager
@@ -37,6 +51,7 @@ Designed to help small businesses track products, manage stock levels, register 
 The system focuses on practical business operations and structured data handling.
 
 **Key capabilities**
+
 - Product and inventory management  
 - Sales tracking and transaction history  
 - Weighted restocking cost calculation  
@@ -50,24 +65,25 @@ https://github.com/Lautarocuello98/Inventory-sales-manager
 
 ## Other Projects
 
-- **[Automation Hub](https://github.com/Lautarocuello98/Automation-hub)** — Desktop automation toolkit built with Python and Tkinter that integrates multiple automation utilities.
-
 - **[Data Report Automation](https://github.com/Lautarocuello98/data-report-automation)** — Python CLI tool that transforms raw CSV/Excel sales data into cleaned datasets, business KPIs, charts, and formatted Excel reports.
 
-- **[Automate the Boring Stuff with Python](https://github.com/Lautarocuello98/automate-the-boring-stuff)** — Collection of practical Python automation scripts built while working through the book, focused on file handling, scripting, and task automation.
+- **[Automation Hub](https://github.com/Lautarocuello98/Automation-hub)** — Desktop automation toolkit built with Python and Tkinter that integrates multiple automation utilities.
 
 - **[Encryption System](https://github.com/Lautarocuello98/Encryption-System)** — Python project implementing multiple encryption and decryption methods.
+
+- **[Automate the Boring Stuff with Python](https://github.com/Lautarocuello98/automate-the-boring-stuff)** — Collection of practical Python automation scripts built while working through the book, focused on file handling, scripting, and task automation.
 
 - **[Simple Games Website](https://github.com/Lautarocuello98/simple-games-website)** — Static browser-based game collection built with HTML, CSS, and JavaScript.
 
 These projects demonstrate practical problem-solving, automation workflows, and real-world scripting with Python.
+
 ---
 
 ## Professional Goals
 
 - Entry-level Python development roles
-- Freelance projects in automation, scripting, and data handling
-- Developing small tools to improve productivity and efficiency
+- Freelance projects in automation, scripting, and data processing
+- Building practical tools that help automate workflows and improve productivity
 
 ---
 
@@ -75,5 +91,3 @@ These projects demonstrate practical problem-solving, automation workflows, and 
 
 - GitHub: [Lautarocuello98](https://github.com/Lautarocuello98)  
 - LinkedIn: [Lautaro Cuello](https://www.linkedin.com/in/lautaro-cuello-7ba4063a3/)
-
-
