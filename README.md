@@ -52,6 +52,8 @@ https://github.com/Lautarocuello98/Inventory-sales-manager
 
 - **[Automation Hub](https://github.com/Lautarocuello98/Automation-hub)** — Desktop automation toolkit built with Python and Tkinter that integrates multiple automation utilities.
 
+- **[Data Report Automation](https://github.com/Lautarocuello98/data-report-automation)** — Python CLI tool that transforms raw CSV/Excel sales data into cleaned datasets, business KPIs, charts, and formatted Excel reports.
+
 - **[Automate the Boring Stuff with Python](https://github.com/Lautarocuello98/automate-the-boring-stuff)** — Collection of practical Python automation scripts built while working through the book, focused on file handling, scripting, and task automation.
 
 - **[Encryption System](https://github.com/Lautarocuello98/Encryption-System)** — Python project implementing multiple encryption and decryption methods.
