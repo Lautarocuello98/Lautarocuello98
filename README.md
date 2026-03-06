@@ -20,6 +20,9 @@ Strong foundation in programming logic, algorithms, and practical Python develop
 
 - Python (automation, scripting, file handling, APIs)
 - Task automation and workflow optimization
+- Backend development with FastAPI and Django
+- REST API design and integration
+- Web scraping and data extraction
 - Debugging, problem decomposition, and algorithmic thinking
 - Git and GitHub
 - Basic web development (HTML, CSS, JavaScript)
