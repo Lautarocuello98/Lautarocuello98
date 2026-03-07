@@ -13,7 +13,7 @@ I create applications and scripts that automate repetitive tasks, process data, 
 - *Automate the Boring Stuff with Python*  
 - *Python Crash Course* (in progress)
 
-Strong foundation in programming logic, algorithms, and practical Python development.
+Strong foundation in programming fundamentals, algorithms, and practical Python development.
 
 ---
 
