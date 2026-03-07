@@ -1,7 +1,7 @@
 # Lautaro Cuello 
 ## Python Developer — Automation, Backend & Data Workflows
 
-Python developer focused on **Python solutions for automation, scripting, and building practical tools**.  
+Python developer focused on **automation, scripting, and building practical tools with Python**.  
 I create applications and scripts that automate repetitive tasks, process data, and improve workflows.
 
 ---
@@ -33,15 +33,15 @@ Strong foundation in programming logic, algorithms, and practical Python develop
 
 ## Technologies
 
-- Python  
-- Pandas
+- Python
+- Django
 - FastAPI
-- Django 
-- SQLite  
-- Tkinter  
-- OpenPyXL  
-- Matplotlib  
-- Git / GitHub  
+- Pandas
+- SQLite
+- OpenPyXL
+- Matplotlib
+- Tkinter
+- Git / GitHub
 
 ---
 
@@ -92,6 +92,15 @@ https://github.com/Lautarocuello98/Inventory-sales-manager
 - **[Automate the Boring Stuff with Python](https://github.com/Lautarocuello98/automate-the-boring-stuff)** — Collection of practical Python automation scripts built while working through the book, focused on file handling, scripting, and task automation.
 
 These projects demonstrate practical problem-solving, automation workflows, and real-world scripting with Python.
+
+---
+
+## Key Focus Areas
+
+- Business workflow automation
+- Data processing and reporting pipelines
+- Backend tools and internal business applications
+- Practical Python utilities for real-world workflows
 
 ---
 
