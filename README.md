@@ -1,4 +1,5 @@
-# Lautaro Cuello – Python Developer — Automation, Backend & Data Workflows
+# Lautaro Cuello 
+Python Developer — Automation, Backend & Data Workflows
 
 Python developer focused on **Python solutions for automation, scripting, and building practical tools**.  
 I create applications and scripts that automate repetitive tasks, process data, and improve workflows.
