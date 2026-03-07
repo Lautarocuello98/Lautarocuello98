@@ -1,4 +1,4 @@
-# Lautaro Cuello – Python Automation & Data Processing Developer
+# Lautaro Cuello – Python Developer — Automation, Backend & Data Workflows
 
 Python developer focused on **Python solutions for automation, scripting, and building practical tools**.  
 I create applications and scripts that automate repetitive tasks, process data, and improve workflows.
@@ -89,8 +89,6 @@ https://github.com/Lautarocuello98/Inventory-sales-manager
 - **[Encryption System](https://github.com/Lautarocuello98/Encryption-System)** — Python project implementing multiple encryption and decryption methods.
 
 - **[Automate the Boring Stuff with Python](https://github.com/Lautarocuello98/automate-the-boring-stuff)** — Collection of practical Python automation scripts built while working through the book, focused on file handling, scripting, and task automation.
-
-- **[Simple Games Website](https://github.com/Lautarocuello98/simple-games-website)** — Static browser-based game collection built with HTML, CSS, and JavaScript.
 
 These projects demonstrate practical problem-solving, automation workflows, and real-world scripting with Python.
 
