@@ -78,6 +78,8 @@ https://github.com/Lautarocuello98/Inventory-sales-manager
 
 ## Other Projects
 
+- **[Business Web Manager](https://github.com/Lautarocuello98/business-web-app)** — Django web application for managing internal business workflows including clients, jobs, priorities, and operational metrics. 
+
 - **[Excel Report Generator](https://github.com/Lautarocuello98/data-report-automation)** — Python CLI tool that processes CSV or Excel datasets and generates a structured Excel report with summary tables, KPIs, and charts.
 
 - **[Email Report Automation](https://github.com/Lautarocuello98/email-report-automation)** — Python automation tool that generates Excel reports for clients and automatically delivers them via email using SMTP.
