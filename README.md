@@ -11,7 +11,7 @@ I create applications and scripts that automate repetitive tasks, process data, 
 - **CS50x – Introduction to Computer Science (Harvard)**  
 - **CS50p – Introduction to Programming with Python (Harvard)**  
 - *Automate the Boring Stuff with Python*  
-- *Python Crash Course* (in progress)
+- *Python Crash Course*
 
 Strong foundation in programming fundamentals, algorithms, and practical Python development.
 
@@ -91,6 +91,8 @@ https://github.com/Lautarocuello98/Inventory-sales-manager
 
 - **[Automate the Boring Stuff with Python](https://github.com/Lautarocuello98/automate-the-boring-stuff)** — Collection of practical Python automation scripts built while working through the book, focused on file handling, scripting, and task automation.
 
+- - **[Python Crash Course](https://github.com/Lautarocuello98/python-crash-course)** — Exercises and projects while studying Python Crash Course (3rd Edition) by Eric Matthes. The focus is on building strong Python fundamentals and applying them through progressively structured project.
+    
 These projects demonstrate practical problem-solving, automation workflows, and real-world scripting with Python.
 
 ---
