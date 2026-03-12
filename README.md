@@ -85,6 +85,8 @@ https://github.com/Lautarocuello98/Inventory-sales-manager
 
 - **[Email Report Automation](https://github.com/Lautarocuello98/email-report-automation)** — Python automation tool that generates Excel reports for clients and automatically delivers them via email using SMTP.
 
+- **[Remote Jobs Data Scraper](https://github.com/Lautarocuello98/remote-jobs-data-scraper)** — Production-style Python data pipeline that collects remote jobs from RemoteOK, cleans the dataset, and exports ready-to-use analytics files.
+
 - **[Automation Hub](https://github.com/Lautarocuello98/Automation-hub)** — Desktop automation toolkit built with Python and Tkinter that integrates multiple automation utilities.
 
 - **[Encryption System](https://github.com/Lautarocuello98/Encryption-System)** — Python project implementing multiple encryption and decryption methods.
