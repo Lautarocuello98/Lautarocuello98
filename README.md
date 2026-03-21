@@ -72,7 +72,7 @@ The system focuses on practical business operations and structured data handling
 - Currency conversion (USD / ARS)  
 - Automated Excel profit reports  
 
-🔗 Repository  
+🔗 Repository
 https://github.com/Lautarocuello98/Inventory-sales-manager
 
 ---
