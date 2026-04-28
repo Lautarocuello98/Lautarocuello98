@@ -121,3 +121,4 @@ These projects demonstrate practical problem-solving, automation workflows, and 
 - GitHub: [Lautarocuello98](https://github.com/Lautarocuello98)  
 - LinkedIn: [Lautaro Cuello](https://www.linkedin.com/in/lautaro-cuello-7ba4063a3/)
 - Upwork: [Lautaro C.](https://www.upwork.com/freelancers/lautarocuello)
+- Email: lautaro.cuello.dev@gmail.com
